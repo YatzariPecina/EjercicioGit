@@ -1,5 +1,8 @@
 # EjercicioGit
+<<<<<<< HEAD
 Un ejercicio bonito
 DEFINE BONITO
 
-Confirmo lo que dijo Yatzari
+Un ejercicio para mis amigos
+
+Hola, apurense 
