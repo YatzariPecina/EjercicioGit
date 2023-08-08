@@ -1,2 +1,2 @@
 # EjercicioGit
-Un ejercicio bonito para mis amigos 
+Un ejercicio para mis amigos
