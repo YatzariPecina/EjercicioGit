@@ -1,3 +1,2 @@
 # EjercicioGit
-Un ejercicio bonito
-DEFINE BONITO
+Un ejercicio para mis amigos
